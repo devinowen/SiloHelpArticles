@@ -25,12 +25,6 @@
                 "description": "A popup will appear when we've scored your resume with an overall score and suggestions for improvements."
             },
             {
-                "description": "Each tab corresponds to a different \"Best Practice\" and offers suggestions for improvements."
-            },
-            {
-                "description": "The Accomplishments listed in each tab are ones we've determined could be updated to be even stronger."
-            },
-            {
                 "description": "Each tab corresponds to a different \"Best Practice\" and offers suggestions for improvements.",
                 "substeps": {
                     "ordered": false,
