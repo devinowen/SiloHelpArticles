@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "urlSlug": "creating-an-account",
+    "title": "Creating an account",
+    "subtitle": "Quick, easy, and free",
+    "description": "You can create an account with just your name, email, and a password. It's free forever, so you'll never have to worry about paying to access your data or create resumes.",
+    "instructions": {
+        "ordered": true,
+        "steps": [
+            "Head over to silocv.com/sign-up.",
+            "Add your first name.",
+            "Add your last name.",
+            "Add your email.",
+            "Choose a password.",
+            "Click Sign Up."
+        ]
+    }
+}
