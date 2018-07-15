@@ -1,5 +1,7 @@
 {
     "id": "1",
+    "previousArticle": "0",
+    "nextArticle": "2",
     "urlSlug": "creating-an-account",
     "title": "Creating an account",
     "subtitle": "Quick, easy, and free",
@@ -26,7 +28,5 @@
                 "description": "Click Sign Up."
             }
         ]
-    },
-    "previousArticle": "0",
-    "nextArticle": "2"
+    }
 }

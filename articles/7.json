@@ -1,0 +1,54 @@
+{
+    "id": "7",
+    "previousArticle": "6",
+    "nextArticle": "8",
+    "urlSlug": "sharing-your-documents",
+    "title": "Sharing your documents",
+    "subtitle": "Share online or download a PDF",
+    "description": "Silo allows you to download your resume or cover letter as a PDF or plain text, or share it online to really stand out and get access to application tracking.",
+    "instructions": {
+        "ordered": false,
+        "steps": [
+            {
+                "description": "While the term 'resume' is used below, all steps apply to cover letters (in the corresponding section of the site)."
+            },
+            {
+                "description": "To share your resume online and get access to application tracking:",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Click on 'Resumes' in the top bar or side menu.",
+                        "Click 'Share Link' on the resume card that you want to share.",
+                        "Copy the URL (you can click on the copy icon next to the URL), and share away!",
+                        "You can disable a link by clicking on the resume card and clicking 'Disable Link' in the resume detail popup."
+                    ]
+                }
+            },
+            {
+                "description": "To download a PDF version of your resume:",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Click on 'Resumes' in the top bar or side menu.",
+                        "Click 'Download' on the resume card that you want to download. Your download will start automatically.",
+                        "Alternatively, click 'Edit' on the resume card that you want to download.",
+                        "Click 'Download Resume' in the editor toolbar.",
+                        "Choose 'Download PDF' from the prompt at the bottom of the screen. Your download will start automatically."
+                    ]
+                }
+            },
+            {
+                "description": "To download a plain text version of your resume:",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Click on 'Resumes' in the top bar or side menu.",
+                        "Click 'Edit' on the resume card that you want to download.",
+                        "Click 'Download Resume' in the editor toolbar.",
+                        "Choose 'Download Plain Text' from the prompt at the bottom of the screen. Your download will start automatically."
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "4",
+    "previousArticle": "3",
+    "nextArticle": "5",
+    "urlSlug": "updating-your-profile-info",
+    "title": "Updating your profile info",
+    "subtitle": "Keep your profile up to date to ensure employers can get in touch",
+    "description": "Your profile information includes contact information and your answers to profile questions that help us customize your experience to be most useful.",
+    "instructions": {
+        "ordered": true,
+        "steps": [
+            {
+                "description": "Click on your name in the top bar or 'Profile' in the side menu."
+            },
+            {
+                "description": "Edit any fields that need to be updating on the profile screen.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "Updates are automatically saved when you click out of a field."
+                    ]
+                }
+            },
+            {
+                "description": "You can add or update a headshot by clicking on the round headshot icon at the top of the page."
+            },
+            {
+                "description": "Update your preferences by clicking the toggles next to each preference."
+            }
+        ]
+    }
+}

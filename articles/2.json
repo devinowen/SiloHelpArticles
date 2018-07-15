@@ -1,5 +1,7 @@
 {
     "id": "2",
+    "previousArticle": "1",
+    "nextArticle": "3",
     "urlSlug": "adding-your-resume-info",
     "title": "Adding your resume info",
     "subtitle": "Import your resume or add your info individually",
@@ -8,29 +10,63 @@
         "ordered": false,
         "steps": [
             {
-                "description": "If using the resume importer",
+                "description": "If using the resume importer:",
                 "substeps": {
                     "ordered": true,
                     "steps": [
-                        "Step 1",
-                        "Step 2",
-                        "Step 3"
+                        "Click on 'My Info' in the top bar or side menu.",
+                        "Click on the Import My Resume button at the top of the page.",
+                        "Select the file from your computer.",
+                        "Verify the information imported from your resume is correct in cards added to Work, Education, or Achievements."
                     ]
                 }
             },
             {
-                "description": "If adding your information manually",
+                "description": "If adding your information manually:",
                 "substeps": {
                     "ordered": true,
                     "steps": [
-                        "Step 1",
-                        "Step 2",
-                        "Step 3"
+                        "Click on 'My Info' in the top bar or side menu.",
+                        "Click on the (+) button at the top of the page (bottom of the page if on mobile).",
+                        "Use the tabs at the top of the popup to choose which type of information to add (Work & Volunteering, Education, or Achievements & Activities).",
+                        "Fill out pertinent fields. Note that the required fields are marked below the input.",
+                        "Click 'Add' at the bottom of the popup.",
+                        "A new popup will appear, which you can use to add Accomplishments (statements about what you accomplished or duties you performed in that particular position).",
+                        "You can add multiple Accomplishments at once by separating them onto a new line.",
+                        "Click 'Save & Close' to close the popup, or click 'Save & Add More' to add more Accomplishments."
+                    ]
+                }
+            },
+            {
+                "description": "To edit your info:",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Click on 'My Info' in the top bar or side menu.",
+                        "Click on the card that includes the information you want to edit.",
+                        "Edit the information in the fields provided.",
+                        "Click 'Save'.",
+                        "To edit an Accomplishment, click on the Accomplishment you want to update.",
+                        "Edit the Accomplishment in the popup, and click 'Save'.",
+                        "You can also re-order your Accomplishments by dragging them within a card."
+                    ]
+                }
+            },
+            {
+                "description": "To delete your info:",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Click on 'My Info' in the top bar or side menu.",
+                        "Click on the card that you want to delete.",
+                        "Click 'Delete'.",
+                        "Click 'Delete Permanently'.",
+                        "To delete just an Accomplishment, click on the Accomplishment you want to delete.",
+                        "Click 'Delete'.",
+                        "Click 'Delete Permanently'."
                     ]
                 }
             }
         ]
-    },
-    "previousArticle": "1",
-    "nextArticle": "3"
+    }
 }

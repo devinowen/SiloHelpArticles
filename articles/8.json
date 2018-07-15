@@ -1,0 +1,43 @@
+{
+    "id": "8",
+    "previousArticle": "7",
+    "nextArticle": "9",
+    "urlSlug": "searching-for-jobs",
+    "title": "Searching for jobs",
+    "subtitle": "Find your best job yet",
+    "description": "Silo's comprehensive job search tool lets you find the perfect job quickly and easily. Then create the best resume for that job with a single click.",
+    "instructions": {
+        "ordered": true,
+        "steps": [
+            {
+                "description": "Click on 'Find Jobs' in the top bar or side menu."
+            },
+            {
+                "description": "Add any combination of search terms in the Keywords field."
+            },
+            {
+                "description": "Add the location in which you're searching in the Location field."
+            },
+            {
+                "description": "Click 'Search'."
+            },
+            {
+                "description": "Results are automatically sorted by best fit. Click the button above your results to re-order by date posted."
+            },
+            {
+                "description": "Your last 6 searches are shown below the search field. Click one to re-use those terms and location."
+            },
+            {
+                "description": "Click on a job description to get more information.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "The job info popup will contain a longer description of the job, map of the position's location, and more.",
+                        "Click 'Create a Resume for this Job' to automatically create a resume for that position.",
+                        "Click 'More Info' to go to the job posting on the hosting site. You can apply through this site."
+                    ]
+                }
+            }
+        ]
+    }
+}
