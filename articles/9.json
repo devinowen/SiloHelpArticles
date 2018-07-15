@@ -1,0 +1,46 @@
+{
+    "id": "9",
+    "previousArticle": "8",
+    "nextArticle": "10",
+    "urlSlug": "scoring-your-documents",
+    "title": "Scoring your documents",
+    "subtitle": "Create the perfect resume and cover letter",
+    "description": "Scoring your resumes and cover letters helps you perfect each document. Get customized feedback on ways to improve your resume based on best practices from industry experts.",
+    "instructions": {
+        "ordered": true,
+        "steps": [
+            {
+                "description": "While the term 'resume' is used below, all steps apply to cover letters (in the corresponding section of the site)."
+            },
+            {
+                "description": "Click on 'Resumes' in the top bar or side menu."
+            },
+            {
+                "description": "Click 'Edit' on the resume card that you want to score."
+            },
+            {
+                "description": "Click 'Score Your Resume'."
+            },
+            {
+                "description": "A popup will appear when we've scored your resume with an overall score and suggestions for improvements."
+            },
+            {
+                "description": "Each tab corresponds to a different \"Best Practice\" and offers suggestions for improvements."
+            },
+            {
+                "description": "The Accomplishments listed in each tab are ones we've determined could be updated to be even stronger."
+            },
+            {
+                "description": "Each tab corresponds to a different \"Best Practice\" and offers suggestions for improvements.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "The Accomplishments listed in each tab are ones we've determined could be updated to be even stronger.",
+                        "Read the suggestion and then click 'Update' next to any line item that you want to edit.",
+                        "Re-run the scorer after any updates to see your score improve!"
+                    ]
+                }
+            }
+        ]
+    }
+}
