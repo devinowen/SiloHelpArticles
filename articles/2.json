@@ -1,0 +1,36 @@
+{
+    "id": "2",
+    "urlSlug": "adding-your-resume-info",
+    "title": "Adding your resume info",
+    "subtitle": "Import your resume or add your info individually",
+    "description": "Add your resume automatically using our import tool, or use the + button on the My Info page to add your work, education, and achievement history.",
+    "instructions": {
+        "ordered": false,
+        "steps": [
+            {
+                "description": "If using the resume importer",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Step 1",
+                        "Step 2",
+                        "Step 3"
+                    ]
+                }
+            },
+            {
+                "description": "If adding your information manually",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Step 1",
+                        "Step 2",
+                        "Step 3"
+                    ]
+                }
+            }
+        ]
+    },
+    "previousArticle": "1",
+    "nextArticle": "3"
+}

@@ -7,12 +7,26 @@
     "instructions": {
         "ordered": true,
         "steps": [
-            "Head over to silocv.com/sign-up.",
-            "Add your first name.",
-            "Add your last name.",
-            "Add your email.",
-            "Choose a password.",
-            "Click Sign Up."
+            {
+                "description": "Head over to silocv.com/sign-up."
+            },
+            {
+                "description": "Add your first name."
+            },
+            {
+                "description": "Add your last name."
+            },
+            {
+                "description": "Add your email."
+            },
+            {
+                "description": "Choose a password."
+            },
+            {
+                "description": "Click Sign Up."
+            }
         ]
-    }
+    },
+    "previousArticle": "0",
+    "nextArticle": "2"
 }
