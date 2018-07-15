@@ -1,0 +1,104 @@
+{
+    "sections": [
+        {
+            "title": "Getting Started",
+            "articles": [
+                {
+                    "title": "Creating an account",
+                    "icon": "face",
+                    "id": "1"
+                },
+                {
+                    "title": "Adding your resume info",
+                    "icon": "list",
+                    "id": "2"
+                },
+                {
+                    "title": "Adding saved cover letter paragraphs",
+                    "icon": "subject",
+                    "id": "3"
+                },
+                {
+                    "title": "Updating your profile info",
+                    "icon": "account_circle",
+                    "id": "4"
+                }
+            ]
+        },
+        {
+            "title": "Next Up",
+            "articles": [
+                {
+                    "title": "Creating a resume",
+                    "icon": "add_circle",
+                    "id": "5"
+                },
+                {
+                    "title": "Creating a cover letter",
+                    "icon": "add_box",
+                    "id": "6"
+                },
+                {
+                    "title": "Sharing your documents",
+                    "icon": "picture_as_pdf",
+                    "id": "7"
+                },
+                {
+                    "title": "Searching for jobs",
+                    "icon": "search",
+                    "id": "8"
+                }
+            ]
+        },
+        {
+            "title": "Advanced Use",
+            "articles": [
+                {
+                    "title": "Scoring your documents",
+                    "icon": "thumb_up",
+                    "id": "9"
+                },
+                {
+                    "title": "Linking resumes and cover letters",
+                    "icon": "lock",
+                    "id": "10"
+                },
+                {
+                    "title": "Tracking your application",
+                    "icon": "location_searching",
+                    "id": "11"
+                },
+                {
+                    "title": "Advanced formatting",
+                    "icon": "tune",
+                    "id": "12"
+                }
+            ]
+        },
+        {
+            "title": "Tips & Tricks",
+            "articles": [
+                {
+                    "title": "Tips for students",
+                    "icon": "school",
+                    "id": "13"
+                },
+                {
+                    "title": "Tips for older job seekers",
+                    "icon": "work",
+                    "id": "14"
+                },
+                {
+                    "title": "Finding the perfect job",
+                    "icon": "location_city",
+                    "id": "15"
+                },
+                {
+                    "title": "Resume best practices",
+                    "icon": "playlist_add_check",
+                    "id": "16"
+                }
+            ]
+        }
+    ]
+}
