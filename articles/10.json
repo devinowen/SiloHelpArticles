@@ -1,0 +1,42 @@
+{
+    "id": "10",
+    "previousArticle": "9",
+    "nextArticle": "11",
+    "urlSlug": "linking-resumes-and-cover-letters",
+    "title": "Linking resumes and cover letters",
+    "subtitle": "Link your documents to create a full application",
+    "description": "Linking resumes and cover letters let you sync styles and features across both, and makes it easy for employers to get a good, well-rounded picture of who you are.",
+    "instructions": {
+        "ordered": true,
+        "steps": [
+            {
+                "description": "Create a resume and cover letter in their respective builders."
+            },
+            {
+                "description": "Click on 'Resumes' in the top bar or side menu."
+            },
+            {
+                "description": "Find the resume that you want to link to a cover letter."
+            },
+            {
+                "description": "Click 'Link Cover Letter' in the top right corner of the resume card."
+            },
+            {
+                "description": "Choose the cover letter that you want to link to the resume from the list in the popup."
+            },
+            {
+                "description": "You can change or remove a linked cover letter by clicking 'Change Cover Letter' on the card of the resume that you want to update.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "If changing the linked cover letter, click a new cover letter from the list.",
+                        "If removing a cover letter, click 'Remove Linked Cover Letter'."
+                    ]
+                }
+            },
+            {
+                "description": "All steps above can be taken on the Cover Letters page by clicking on the 'Link Resume' or 'Change Linked Resume' buttons on a cover letter card."
+            }
+        ]
+    }
+}

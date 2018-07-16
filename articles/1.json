@@ -10,22 +10,24 @@
         "ordered": true,
         "steps": [
             {
-                "description": "Head over to silocv.com/sign-up."
+                "description": "Go to https://silocv.com/sign-up or click the 'Sign Up' button in the header of this page."
             },
             {
-                "description": "Add your first name."
+                "description": "Fill out the required fields with your name, email, and a password.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "Passwords must be at least 8 characters.",
+                        "You can only sign up with a particular email once. If it's already been used you won't be able to sign up for a new account.",
+                        "If your email was previously used, you can reset the password to the account at https://silocv.com/forgot-password."
+                    ]
+                }
             },
             {
-                "description": "Add your last name."
+                "description": "Click 'Sign Up' to create your account and log in."
             },
             {
-                "description": "Add your email."
-            },
-            {
-                "description": "Choose a password."
-            },
-            {
-                "description": "Click Sign Up."
+                "description": "Have fun! Go land that dream job."
             }
         ]
     }

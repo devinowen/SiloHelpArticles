@@ -1,0 +1,13 @@
+{
+    "id": "13",
+    "previousArticle": "12",
+    "nextArticle": "14",
+    "urlSlug": "tips-for-students",
+    "title": "Tips for students",
+    "subtitle": "How to optimize your education",
+    "description": "Writing resumes without significant work experience can be tough. Luckily, there are plenty of ways you can highlight your education, volunteering, and other skills to stand out.",
+    "instructions": {
+        "ordered": false,
+        "steps": []
+    }
+}
