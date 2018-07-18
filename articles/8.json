@@ -13,7 +13,7 @@
                 "description": "Click on 'Find Jobs' in the top bar or side menu."
             },
             {
-                "description": "Add any combination of search terms in the Keywords field."
+                "description": "Add any combination of search terms in the Keywords field. Narrow down your search by adding more descriptors of what you're interested in."
             },
             {
                 "description": "Add the location in which you're searching in the Location field."
@@ -22,7 +22,14 @@
                 "description": "Click 'Search'."
             },
             {
-                "description": "Results are automatically sorted by best fit. Click the button above your results to re-order by date posted."
+                "description": "Results are automatically sorted by best fit. Click the button above your results to re-order by date posted.",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "As long as a posting isn't months old you're likely still in good shape applying.",
+                        "It's more important that you like the job than that you're the first person to apply."
+                    ]
+                }
             },
             {
                 "description": "Your last 6 searches are shown below the search field. Click one to re-use those terms and location."
@@ -35,6 +42,21 @@
                         "The job info popup will contain a longer description of the job, map of the position's location, and more.",
                         "Click 'Create a Resume for this Job' to automatically create a resume for that position.",
                         "Click 'More Info' to go to the job posting on the hosting site. You can apply through this site."
+                    ]
+                }
+            },
+            {
+                "description": "Feel free to find jobs on other sites! As long as you have a URL to the job description we can still help build a custom resume.",
+                "substeps": {
+                    "ordered": true,
+                    "steps": [
+                        "Find a job you like on another site.",
+                        "Copy the URL of the job description.",
+                        "Head over to the 'Resumes' section of Silo.",
+                        "Click 'Auto-build resume from job description'.",
+                        "Paste the link to the job description in the popup and click 'Auto-build resume'.",
+                        "Edit your resume and don't forget to score it!",
+                        "The job description link you used will be saved to that resume so that you can track your application (see Tracking your application)."
                     ]
                 }
             }

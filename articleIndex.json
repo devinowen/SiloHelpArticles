@@ -89,13 +89,13 @@
                     "id": "14"
                 },
                 {
-                    "title": "Finding the perfect job",
-                    "icon": "location_city",
+                    "title": "Resume best practices",
+                    "icon": "playlist_add_check",
                     "id": "15"
                 },
                 {
-                    "title": "Resume best practices",
-                    "icon": "playlist_add_check",
+                    "title": "Cover letter best practices",
+                    "icon": "trending_up",
                     "id": "16"
                 }
             ]
