@@ -18,7 +18,7 @@
                     "ordered": true,
                     "steps": [
                         "Click on a resume or cover letter card to view details about the document.",
-                        "The second sectin includes a summary of how many times your document was viewed today, this week, this month, and all time.",
+                        "The second section includes a summary of how many times your document was viewed today, this week, this month, and all time.",
                         "If your document has at least one view you'll also see a map with pins showing the approximate location of each view."
                     ]
                 }
@@ -29,8 +29,8 @@
                     "ordered": true,
                     "steps": [
                         "If you have a job description for the job you're tracking, add it under the header \"Add a job description to track your application progress.\".",
-                        "If you created the doucment automatically based on a description, that link will already be in the field.",
-                        "As you learn that your application has moved through different stages of the process, choose a new status from the dropdown menu labelled 'Application Status'."
+                        "If you created the document automatically based on a description, that link will already be in the field.",
+                        "As you learn that your application has moved through different stages of the process, choose a new status from the dropdown menu labeled 'Application Status'."
                     ]
                 }
             }

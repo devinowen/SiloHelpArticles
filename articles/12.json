@@ -25,10 +25,10 @@
                 "substeps": {
                     "ordered": false,
                     "steps": [
-                        "You can add an Objective Statement by clicking the toggle at the bottom of the editing toolbar labelled 'Objective Statement'.",
+                        "You can add an Objective Statement by clicking the toggle at the bottom of the editing toolbar labeled 'Objective Statement'.",
                         "Rearrange full resume sections into new locations by dragging the handle to the left of the section header. After your work and education, order the sections by the amount of content you're using and how pertinent the items are to the job for which you're applying.",
-                        "You can rename the sections by clicking on their current names. After updating the text click out of the textbox and your changes will automatically save.",
-                        "You can change the name of your resume by clicking on its current name and making changes. When you click out of the textbox your changes will automatically save."
+                        "You can rename the sections by clicking on their current names. After updating the text click out of the text box and your changes will automatically save.",
+                        "You can change the name of your resume by clicking on its current name and making changes. When you click out of the text box your changes will automatically save."
                     ]
                 }
             },
