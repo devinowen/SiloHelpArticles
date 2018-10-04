@@ -15,8 +15,9 @@
                     "ordered": true,
                     "steps": [
                         "Click on 'Resumes' in the top bar or side menu.",
-                        "Copy the URL of the job posting to your clipboard and click 'Auto-build resume from job description' (or click 'Create Resume for this Job' on a job info card in the 'Find Jobs' section).",
-                        "Paste the URL of the job posting into the popup and click 'Auto-build Resume'.",
+                        "Copy the URL of the job posting to your clipboard and click 'Create Resume' (or click 'Create Resume for this Job' on a job info card in the 'Find Jobs' section).",
+                        "Choose 'Auto-build' in Step 1 on the popup.",
+                        "Paste the link to the job description in the field and click 'Build It >'",
                         "We'll pull out the most pertinent information from the job description and decide what information from your account to add to the new resume.",
                         "Edit your resume as described below to further customize it."
                     ]
@@ -28,7 +29,8 @@
                     "ordered": true,
                     "steps": [
                         "Click on 'Resumes' in the top bar or side menu.",
-                        "Click 'Start with a blank resume'.",
+                        "Click 'Create Resume'",
+                        "If you have a job description that you want to link to your resume, enter it in the form in Step 2",
                         "Choose which jobs, education, and achievements you want to add in the popup window by checking the box next to each one.",
                         "All of the checked info will be added to your resume, which you can then edit further as described below."
                     ]

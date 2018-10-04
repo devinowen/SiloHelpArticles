@@ -2,29 +2,33 @@
     "id": "1",
     "previousArticle": "0",
     "nextArticle": "2",
-    "urlSlug": "creating-an-account",
-    "title": "Creating an account",
+    "urlSlug": "getting-started",
+    "title": "Getting started",
     "subtitle": "Quick, easy, and free",
-    "description": "You can create an account with just your name, email, and a password. It's free forever, so you'll never have to worry about paying to access your data or create resumes.",
+    "description": "You can start building resumes and cover letters quickly and easily. Savviest is free forever, so you'll never have to worry about paying to access your data or create resumes.",
     "instructions": {
         "ordered": true,
         "steps": [
             {
-                "description": "Go to https://silocv.com/sign-up or click the 'Sign Up' button in the header of this page."
-            },
-            {
-                "description": "Fill out the required fields with your name, email, and a password.",
+                "description": "Click the 'Get Started' button in the header of this page.",
                 "substeps": {
                     "ordered": false,
                     "steps": [
-                        "Passwords must be at least 8 characters.",
-                        "You can only sign up with a particular email once. If it's already been used you won't be able to sign up for a new account.",
-                        "If your email was previously used, you can reset the password to the account at https://silocv.com/forgot-password."
+                        "Follow the prompts to add your basic profile info, and you'll be writing resumes in seconds.",
+                        "You can only sign up with a particular email once. If you've previously created an account, log back in at https://savviest.com/login",
+                        "If you've forgetten your password you can reset it here: https://savviest.com/forgot-password."
                     ]
                 }
             },
             {
-                "description": "Click 'Sign Up' to create your account and log in."
+                "description": "If you already have a resume you want to import, click on the \"Import Resume\" button on the home page: https://savviest.com",
+                "substeps": {
+                    "ordered": false,
+                    "steps": [
+                        "You'll be prompted to import your resume and add any additional information that we can't pull automatically.",
+                        "We currently only support importing from Microsoft Word documents, so if you have a resume in a different format you'll want to convert it to Word first, or use it to copy and paste info into your account after signing up."
+                    ]
+                }
             },
             {
                 "description": "Have fun! Go land that dream job."

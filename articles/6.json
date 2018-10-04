@@ -5,7 +5,7 @@
     "urlSlug": "creating-a-cover-letter",
     "title": "Creating a cover letter",
     "subtitle": "Pump up your application with a stellar letter",
-    "description": "A good cover letter can make or break an application. Luckily, creating one in Silo is easy and we can help make it shine.",
+    "description": "A good cover letter can make or break an application. Luckily, creating one in Savviest is easy and we can help make it shine.",
     "instructions": {
         "ordered": false,
         "steps": [
@@ -15,8 +15,9 @@
                     "ordered": true,
                     "steps": [
                         "Click on 'Cover Letters' in the top bar or side menu.",
-                        "Copy the URL of the job posting to your clipboard and click 'Auto-build cover letter from job description'.",
-                        "Paste the URL of the job posting into the popup and click 'Auto-build Cover Letter'.",
+                        "Copy the URL of the job posting to your clipboard and click 'Create Cover Letter'.",
+                        "Choose 'Auto-build' in Step 1 on the popup.",
+                        "Paste the link to the job description in the field and click 'Build It >'",
                         "We'll pull out the most pertinent information from the job description and decide what saved paragraphs to add to the new cover letter.",
                         "Edit your cover letter as described below to further customize it."
                     ]
@@ -28,7 +29,8 @@
                     "ordered": true,
                     "steps": [
                         "Click on 'Cover Letters' in the top bar or side menu.",
-                        "Click 'Start with a blank cover letter'.",
+                        "Click 'Create Cover Letter'",
+                        "If you have a job description that you want to link to your cover letter, enter it in the form in Step 2",
                         "Choose which saved paragraphs you want to add in the popup window by checking the box next to each one.",
                         "All of the checked paragraphs will be added to your cover letter, which you can then edit further as described below."
                     ]
