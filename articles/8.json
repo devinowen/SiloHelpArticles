@@ -5,7 +5,7 @@
     "urlSlug": "searching-for-jobs",
     "title": "Searching for jobs",
     "subtitle": "Find your best job yet",
-    "description": "Silo's comprehensive job search tool lets you find the perfect job quickly and easily. Then create the best resume for that job with a single click.",
+    "description": "Savviest's comprehensive job search tool lets you find the perfect job quickly and easily. Then create the best resume for that job with a single click.",
     "instructions": {
         "ordered": true,
         "steps": [
@@ -52,7 +52,7 @@
                     "steps": [
                         "Find a job you like on another site.",
                         "Copy the URL of the job description.",
-                        "Head over to the 'Resumes' section of Silo.",
+                        "Head over to the 'Resumes' section of Savviest.",
                         "Click 'Auto-build resume from job description'.",
                         "Paste the link to the job description in the popup and click 'Auto-build resume'.",
                         "Edit your resume and don't forget to score it!",

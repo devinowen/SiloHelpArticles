@@ -17,7 +17,7 @@
                 "substeps": {
                     "ordered": true,
                     "steps": [
-                        "Click on a resume or cover letter card to view details about the document.",
+                        "Click on 'View Summary' on a resume or cover letter card to view details about the document.",
                         "The second section includes a summary of how many times your document was viewed today, this week, this month, and all time.",
                         "If your document has at least one view you'll also see a map with pins showing the approximate location of each view."
                     ]
