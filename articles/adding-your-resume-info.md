@@ -14,7 +14,7 @@
 
 ##### If adding your information manually
 1. Click on 'My Info' in the top bar or side menu.
-2. Click on the `(+)` button at the top of the page (bottom of the page if on mobile).
+2. Click on the `+` button at the top of the page (bottom of the page if on mobile).
 3. Use the tabs at the top of the popup to choose which type of information to add (Work  Volunteering, Education, or Achievements & Activities).
 4. Fill out pertinent fields. Note that the required fields are marked below the input.
 5. Click `Add` at the bottom of the popup.

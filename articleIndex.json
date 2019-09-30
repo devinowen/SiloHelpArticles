@@ -144,25 +144,25 @@
                 {
                     "title": "Upgrading to a paid plan",
                     "slug": "upgrading-to-a-paid-plan",
-                    "icon": "school",
+                    "icon": "arrow_upward",
                     "id": "16"
                 },
                 {
                     "title": "Viewing billing info",
                     "slug": "viewing-billing-info",
-                    "icon": "work",
+                    "icon": "local_atm",
                     "id": "17"
                 },
                 {
                     "title": "Downgrading or cancelling your paid plan",
                     "slug": "downgrading-or-cancelling-your-paid-plan",
-                    "icon": "playlist_add_check",
+                    "icon": "cancel_presentation",
                     "id": "18"
                 },
                 {
                     "title": "Updating your credit card info",
                     "slug": "updating-your-credit-card-info",
-                    "icon": "trending_up",
+                    "icon": "credit_card",
                     "id": "19"
                 }
             ]
