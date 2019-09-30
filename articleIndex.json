@@ -1,27 +1,53 @@
 {
+    "articles": [
+        "creating-an-account",
+        "adding-your-resume-info",
+        "adding-saved-cover-letter-paragraphs",
+        "updating-your-profile-info",
+        "creating-a-resume",
+        "creating-a-cover-letter",
+        "sharing-your-documents",
+        "searching-for-jobs",
+        "scoring-your-documents",
+        "linking-resumes-and-cover-letters",
+        "tracking-your-application",
+        "advanced-formatting",
+        "tips-for-students",
+        "tips-for-older-job-seekers",
+        "resume-best-practices",
+        "cover-letter-best-practices",
+        "upgrading-to-a-paid-plan",
+        "viewing-billing-info",
+        "downgrading-or-cancelling-your-paid-plan",
+        "updating-your-credit-card-info"
+    ],
     "sections": [
         {
             "title": "Getting Started",
             "articles": [
                 {
                     "title": "Creating an account",
+                    "slug": "creating-an-account",
                     "icon": "face",
-                    "id": "1"
+                    "id": "0"
                 },
                 {
                     "title": "Adding your resume info",
+                    "slug": "adding-your-resume-info",
                     "icon": "list",
-                    "id": "2"
+                    "id": "1"
                 },
                 {
                     "title": "Adding saved cover letter paragraphs",
+                    "slug": "adding-saved-cover-letter-paragraphs",
                     "icon": "subject",
-                    "id": "3"
+                    "id": "2"
                 },
                 {
                     "title": "Updating your profile info",
+                    "slug": "updating-your-profile-info",
                     "icon": "account_circle",
-                    "id": "4"
+                    "id": "3"
                 }
             ]
         },
@@ -30,23 +56,27 @@
             "articles": [
                 {
                     "title": "Creating a resume",
+                    "slug": "creating-a-resume",
                     "icon": "add_circle",
-                    "id": "5"
+                    "id": "4"
                 },
                 {
                     "title": "Creating a cover letter",
+                    "slug": "creating-a-cover-letter",
                     "icon": "add_box",
-                    "id": "6"
+                    "id": "5"
                 },
                 {
                     "title": "Sharing your documents",
+                    "slug": "sharing-your-documents",
                     "icon": "picture_as_pdf",
-                    "id": "7"
+                    "id": "6"
                 },
                 {
                     "title": "Searching for jobs",
+                    "slug": "searching-for-jobs",
                     "icon": "search",
-                    "id": "8"
+                    "id": "7"
                 }
             ]
         },
@@ -55,23 +85,27 @@
             "articles": [
                 {
                     "title": "Scoring your documents",
+                    "slug": "scoring-your-documents",
                     "icon": "thumb_up",
-                    "id": "9"
+                    "id": "8"
                 },
                 {
                     "title": "Linking resumes and cover letters",
+                    "slug": "linking-resumes-and-cover-letters",
                     "icon": "lock",
-                    "id": "10"
+                    "id": "9"
                 },
                 {
                     "title": "Tracking your application",
+                    "slug": "tracking-your-application",
                     "icon": "location_searching",
-                    "id": "11"
+                    "id": "10"
                 },
                 {
                     "title": "Advanced formatting",
+                    "slug": "advanced-formatting",
                     "icon": "tune",
-                    "id": "12"
+                    "id": "11"
                 }
             ]
         },
@@ -80,23 +114,56 @@
             "articles": [
                 {
                     "title": "Tips for students",
+                    "slug": "tips-for-students",
                     "icon": "school",
-                    "id": "13"
+                    "id": "12"
                 },
                 {
                     "title": "Tips for older job seekers",
+                    "slug": "tips-for-older-job-seekers",
                     "icon": "work",
-                    "id": "14"
+                    "id": "13"
                 },
                 {
                     "title": "Resume best practices",
+                    "slug": "resume-best-practices",
                     "icon": "playlist_add_check",
-                    "id": "15"
+                    "id": "14"
                 },
                 {
                     "title": "Cover letter best practices",
+                    "slug": "cover-letter-best-practices",
                     "icon": "trending_up",
+                    "id": "15"
+                }
+            ]
+        },
+        {
+            "title": "Billing & Payments",
+            "articles": [
+                {
+                    "title": "Upgrading to a paid plan",
+                    "slug": "upgrading-to-a-paid-plan",
+                    "icon": "school",
                     "id": "16"
+                },
+                {
+                    "title": "Viewing billing info",
+                    "slug": "viewing-billing-info",
+                    "icon": "work",
+                    "id": "17"
+                },
+                {
+                    "title": "Downgrading or cancelling your paid plan",
+                    "slug": "downgrading-or-cancelling-your-paid-plan",
+                    "icon": "playlist_add_check",
+                    "id": "18"
+                },
+                {
+                    "title": "Updating your credit card info",
+                    "slug": "updating-your-credit-card-info",
+                    "icon": "trending_up",
+                    "id": "19"
                 }
             ]
         }
