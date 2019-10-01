@@ -6,24 +6,24 @@
 
 #### Adding your information
 ##### If using the resume importer
-1. Click on `My Info` in the top bar or side menu.
-2. Click on the `Import My Resume` button at the top of the page.
+1. Click on `My Info` in the top bar or side menu, or click [here](https://savviest.com/app/events).
+2. Click on the `Import Resume` button at the top of the page.
 3. Select the file from your computer.
 4. Verify the information imported from your resume is correct in cards added to Work, Education, or Achievements.
 
-
 ##### If adding your information manually
-1. Click on 'My Info' in the top bar or side menu.
+1. Click on `My Info` in the top bar or side menu, or click [here](https://savviest.com/app/events).
 2. Click on the `+` button at the top of the page (bottom of the page if on mobile).
-3. Use the tabs at the top of the popup to choose which type of information to add (Work  Volunteering, Education, or Achievements & Activities).
-4. Fill out pertinent fields. Note that the required fields are marked below the input.
+3. Use the tabs at the top of the popup to choose which type of information to add (_Work & Volunteering_, _Education_, or _Achievements & Activities_).
+4. Fill out pertinent fields. 
+  * Required fields are marked below the input.
 5. Click `Add` at the bottom of the popup.
-6. A new popup will appear, which you can use to add Accomplishments (statements about what you accomplished or duties you performed in that particular position).
-7. You can add multiple Accomplishments at once by separating them onto a new line.
+6. A new popup will appear, which you can use to add _Accomplishments_ (statements about what you accomplished or duties you performed in that particular position).
+7. You can add multiple Accomplishments at once by separating each onto their own line.
 8. Click `Save & Close` to close the popup, or click `Save & Add More` to add more Accomplishments.
 
 #### Editing your information
-1. Click on `My Info` in the top bar or side menu.
+1. Click on `My Info` in the top bar or side menu, or click [here](https://savviest.com/app/events).
 2. Click on the card that includes the information you want to edit.
 3. Edit the information in the fields provided.
 4. Click `Save`.
@@ -32,7 +32,7 @@
 7. You can also re-order your Accomplishments by dragging them within a card.
 
 #### Deleting your information
-1. Click on `My Info` in the top bar or side menu.
+1. Click on `My Info` in the top bar or side menu, or click [here](https://savviest.com/app/events).
 2. Click on the card that you want to delete.
 3. Click `Delete`.
 4. Click `Delete Permanently`.
