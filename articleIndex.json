@@ -1,53 +1,27 @@
 {
-    "articles": [
-        "creating-an-account",
-        "adding-your-resume-info",
-        "adding-saved-cover-letter-paragraphs",
-        "updating-your-profile-info",
-        "creating-a-resume",
-        "creating-a-cover-letter",
-        "sharing-your-documents",
-        "searching-for-jobs",
-        "scoring-your-documents",
-        "linking-resumes-and-cover-letters",
-        "tracking-your-application",
-        "advanced-formatting",
-        "tips-for-students",
-        "tips-for-older-job-seekers",
-        "resume-best-practices",
-        "cover-letter-best-practices",
-        "upgrading-to-a-paid-plan",
-        "viewing-billing-info",
-        "downgrading-or-cancelling-your-paid-plan",
-        "updating-your-credit-card-info"
-    ],
     "sections": [
         {
             "title": "Getting Started",
             "articles": [
                 {
                     "title": "Creating an account",
-                    "slug": "creating-an-account",
                     "icon": "face",
-                    "id": "0"
-                },
-                {
-                    "title": "Adding your resume info",
-                    "slug": "adding-your-resume-info",
-                    "icon": "list",
                     "id": "1"
                 },
                 {
-                    "title": "Adding saved cover letter paragraphs",
-                    "slug": "adding-saved-cover-letter-paragraphs",
-                    "icon": "subject",
+                    "title": "Adding your resume info",
+                    "icon": "list",
                     "id": "2"
                 },
                 {
-                    "title": "Updating your profile info",
-                    "slug": "updating-your-profile-info",
-                    "icon": "account_circle",
+                    "title": "Adding saved cover letter paragraphs",
+                    "icon": "subject",
                     "id": "3"
+                },
+                {
+                    "title": "Updating your profile info",
+                    "icon": "account_circle",
+                    "id": "4"
                 }
             ]
         },
@@ -56,27 +30,23 @@
             "articles": [
                 {
                     "title": "Creating a resume",
-                    "slug": "creating-a-resume",
                     "icon": "add_circle",
-                    "id": "4"
-                },
-                {
-                    "title": "Creating a cover letter",
-                    "slug": "creating-a-cover-letter",
-                    "icon": "add_box",
                     "id": "5"
                 },
                 {
-                    "title": "Sharing your documents",
-                    "slug": "sharing-your-documents",
-                    "icon": "picture_as_pdf",
+                    "title": "Creating a cover letter",
+                    "icon": "add_box",
                     "id": "6"
                 },
                 {
-                    "title": "Searching for jobs",
-                    "slug": "searching-for-jobs",
-                    "icon": "search",
+                    "title": "Sharing your documents",
+                    "icon": "picture_as_pdf",
                     "id": "7"
+                },
+                {
+                    "title": "Searching for jobs",
+                    "icon": "search",
+                    "id": "8"
                 }
             ]
         },
@@ -85,27 +55,23 @@
             "articles": [
                 {
                     "title": "Scoring your documents",
-                    "slug": "scoring-your-documents",
                     "icon": "thumb_up",
-                    "id": "8"
-                },
-                {
-                    "title": "Linking resumes and cover letters",
-                    "slug": "linking-resumes-and-cover-letters",
-                    "icon": "lock",
                     "id": "9"
                 },
                 {
-                    "title": "Tracking your application",
-                    "slug": "tracking-your-application",
-                    "icon": "location_searching",
+                    "title": "Linking resumes and cover letters",
+                    "icon": "lock",
                     "id": "10"
                 },
                 {
-                    "title": "Advanced formatting",
-                    "slug": "advanced-formatting",
-                    "icon": "tune",
+                    "title": "Tracking your application",
+                    "icon": "location_searching",
                     "id": "11"
+                },
+                {
+                    "title": "Advanced formatting",
+                    "icon": "tune",
+                    "id": "12"
                 }
             ]
         },
@@ -114,56 +80,23 @@
             "articles": [
                 {
                     "title": "Tips for students",
-                    "slug": "tips-for-students",
                     "icon": "school",
-                    "id": "12"
-                },
-                {
-                    "title": "Tips for older job seekers",
-                    "slug": "tips-for-older-job-seekers",
-                    "icon": "work",
                     "id": "13"
                 },
                 {
-                    "title": "Resume best practices",
-                    "slug": "resume-best-practices",
-                    "icon": "playlist_add_check",
+                    "title": "Tips for older job seekers",
+                    "icon": "work",
                     "id": "14"
                 },
                 {
-                    "title": "Cover letter best practices",
-                    "slug": "cover-letter-best-practices",
-                    "icon": "trending_up",
+                    "title": "Resume best practices",
+                    "icon": "playlist_add_check",
                     "id": "15"
-                }
-            ]
-        },
-        {
-            "title": "Billing & Payments",
-            "articles": [
+                },
                 {
-                    "title": "Upgrading to a paid plan",
-                    "slug": "upgrading-to-a-paid-plan",
-                    "icon": "arrow_upward",
+                    "title": "Cover letter best practices",
+                    "icon": "trending_up",
                     "id": "16"
-                },
-                {
-                    "title": "Viewing billing info",
-                    "slug": "viewing-billing-info",
-                    "icon": "local_atm",
-                    "id": "17"
-                },
-                {
-                    "title": "Downgrading or cancelling your paid plan",
-                    "slug": "downgrading-or-cancelling-your-paid-plan",
-                    "icon": "cancel_presentation",
-                    "id": "18"
-                },
-                {
-                    "title": "Updating your credit card info",
-                    "slug": "updating-your-credit-card-info",
-                    "icon": "credit_card",
-                    "id": "19"
                 }
             ]
         }
