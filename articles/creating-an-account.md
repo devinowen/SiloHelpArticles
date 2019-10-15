@@ -2,7 +2,7 @@
 
 ### Quick, easy, and free
 
-> You can start building resumes and cover letters quickly and easily. 
+> Start building successful, tailored resumes and cover letters quickly and easily. 
 > 
 > All of Savviest's core features are free forever, so you don't have to worry about paying to create outstanding resumes or access your data in the future.
 

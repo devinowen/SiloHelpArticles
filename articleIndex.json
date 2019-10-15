@@ -27,24 +27,28 @@
             "articles": [
                 {
                     "title": "Creating an account",
+                    "description": "Start building successful, tailored resumes and cover letters quickly and easily.",
                     "slug": "creating-an-account",
                     "icon": "face",
                     "id": "0"
                 },
                 {
                     "title": "Adding your resume info",
+                    "description": "Add your resume automatically using our import tool, or use the + button on the My Info page to add your work, education, and achievement history.",
                     "slug": "adding-your-resume-info",
                     "icon": "list",
                     "id": "1"
                 },
                 {
                     "title": "Adding saved cover letter paragraphs",
+                    "description": "Saved cover letter paragraphs are a good way to re-use standard paragraphs such as opening statements, descriptions of past work, and closers or signatures.",
                     "slug": "adding-saved-cover-letter-paragraphs",
                     "icon": "subject",
                     "id": "2"
                 },
                 {
                     "title": "Updating your profile info",
+                    "description": "Your profile information includes contact information and your answers to profile questions that help us customize your experience to be most useful.",
                     "slug": "updating-your-profile-info",
                     "icon": "account_circle",
                     "id": "3"
@@ -56,24 +60,28 @@
             "articles": [
                 {
                     "title": "Creating a resume",
+                    "description": "Resumes are what you came here for. Let's build the very best one using the information in your account and optimized for a particular job.",
                     "slug": "creating-a-resume",
                     "icon": "add_circle",
                     "id": "4"
                 },
                 {
                     "title": "Creating a cover letter",
+                    "description": "A good cover letter can make or break an application. Luckily, creating one in Savviest is easy and we can help make it shine.",
                     "slug": "creating-a-cover-letter",
                     "icon": "add_box",
                     "id": "5"
                 },
                 {
                     "title": "Sharing your documents",
+                    "description": "Savviest allows you to share your resumes and cover letters online to stand out from the crowd and give employers powerful tools to boost your application. You can also download your resumes and cover letters as PDFs or in plain text.",
                     "slug": "sharing-your-documents",
                     "icon": "picture_as_pdf",
                     "id": "6"
                 },
                 {
                     "title": "Searching for jobs",
+                    "description": "Savviest's comprehensive job search tool lets you find the perfect job quickly and easily. Then create the best resume for that job with a single click.",
                     "slug": "searching-for-jobs",
                     "icon": "search",
                     "id": "7"
@@ -85,24 +93,28 @@
             "articles": [
                 {
                     "title": "Scoring your documents",
+                    "description": "Scoring your resumes and cover letters helps you perfect each document. Get customized feedback on ways to improve your documents based on best practices from industry experts.",
                     "slug": "scoring-your-documents",
                     "icon": "thumb_up",
                     "id": "8"
                 },
                 {
                     "title": "Linking resumes and cover letters",
+                    "description": "Linking resumes and cover letters lets you sync styles and features across both and makes it easy for employers to get a good, well-rounded picture of who you are.",
                     "slug": "linking-resumes-and-cover-letters",
                     "icon": "lock",
                     "id": "9"
                 },
                 {
                     "title": "Tracking your application",
+                    "description": "Applying to jobs can feel like a black box. It's hard to know what's happening after you submit an application, and it's often difficult to track what stage you're in when applying to multiple positions. Savviest can help with both.",
                     "slug": "tracking-your-application",
                     "icon": "location_searching",
                     "id": "10"
                 },
                 {
                     "title": "Advanced formatting",
+                    "description": "Make the most effective resumes and cover letters by customizing the options to fit exactly your needs and style.",
                     "slug": "advanced-formatting",
                     "icon": "tune",
                     "id": "11"
@@ -114,24 +126,28 @@
             "articles": [
                 {
                     "title": "Tips for students",
+                    "description": "Writing resumes without significant work experience can be tough. Luckily, there are plenty of ways you can highlight your education, volunteering, and other skills to stand out.",
                     "slug": "tips-for-students",
                     "icon": "school",
                     "id": "12"
                 },
                 {
                     "title": "Tips for older job seekers",
+                    "description": "Its an unfortunate truth that some employers can be biased (whether they mean to be or not) against older candidates. Luckily, there are a number of ways to help avoid leading to that bias in your resume and cover letter.",
                     "slug": "tips-for-older-job-seekers",
                     "icon": "work",
                     "id": "13"
                 },
                 {
                     "title": "Resume best practices",
+                    "description": "There are a lot of opinions out there about what makes a strong resume. We've worked with HR professionals and recruiters from a wide variety of industries to find what matters most.",
                     "slug": "resume-best-practices",
                     "icon": "playlist_add_check",
                     "id": "14"
                 },
                 {
                     "title": "Cover letter best practices",
+                    "description": "Writing a cover letter can be hard. This is your chance to stand out as a great candidate and an interesting, real person who would make the perfect hire.",
                     "slug": "cover-letter-best-practices",
                     "icon": "trending_up",
                     "id": "15"
@@ -143,24 +159,28 @@
             "articles": [
                 {
                     "title": "Upgrading to a paid plan",
+                    "description": "Paid plans give you more power to land your dream job, with unlimited resumes, cover letters, downloads, and much more.",
                     "slug": "upgrading-to-a-paid-plan",
                     "icon": "arrow_upward",
                     "id": "16"
                 },
                 {
                     "title": "Viewing and updating your billing info",
+                    "description": "Your billing information security is our top priorty. Luckily, we can keep it safe while making sure you always know what's happening in your account.",
                     "slug": "viewing-and-updating-your-billing-info",
                     "icon": "local_atm",
                     "id": "17"
                 },
                 {
                     "title": "Changing your billing frequency",
+                    "description": "Changing your billing frequency is easy, but we need to do it on our end to make sure you get any applicable pro-rated discounts.",
                     "slug": "changing-your-billing-frequency",
                     "icon": "timelapse",
                     "id": "18"
                 },
                 {
                     "title": "Downgrading or cancelling your paid plan",
+                    "description": "Cancelling your paid plan is easy! Just a few clicks and you won't be charged again.",
                     "slug": "downgrading-or-cancelling-your-paid-plan",
                     "icon": "cancel_presentation",
                     "id": "19"
