@@ -13,7 +13,7 @@
         "tracking-your-application",
         "advanced-formatting",
         "tips-for-students",
-        "tips-for-older-job-seekers",
+        "tips-for-late-career-changes",
         "resume-best-practices",
         "cover-letter-best-practices",
         "upgrading-to-a-paid-plan",
@@ -132,9 +132,9 @@
                     "id": "12"
                 },
                 {
-                    "title": "Tips for older job seekers",
-                    "description": "Its an unfortunate truth that some employers can be biased (whether they mean to be or not) against older candidates. Luckily, there are a number of ways to help avoid leading to that bias in your resume and cover letter.",
-                    "slug": "tips-for-older-job-seekers",
+                    "title": "Tips for late career changes",
+                    "description": "It's an unfortunate truth that some employers can be biased (whether they mean to be or not) against changes late in one's career. Luckily, there are a number of ways to help avoid leading to that bias in your resume and cover letter.",
+                    "slug": "tips-for-late-career-changes",
                     "icon": "work",
                     "id": "13"
                 },

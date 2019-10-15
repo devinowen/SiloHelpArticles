@@ -1,8 +1,8 @@
-## Tips for older job seekers
+## Tips for late career changes
 
 ### Show off your accomplishments without risking biased hiring
 
-> Its an unfortunate truth that some employers can be biased (whether they mean to be or not) against older candidates. Luckily, there are a number of ways to help avoid leading to that bias in your resume and cover letter.
+> It's an unfortunate truth that some employers can be biased (whether they mean to be or not) against changes late in one's career. Luckily, there are a number of ways to help avoid leading to that bias in your resume and cover letter.
 
 **Only add the last 10 or so years of your job history.**
   * The last ten years of your work history are the most pertinent to a new employer anyway, and trying to fit more on a page often limits the amount you can dedicate to education and other achievements.
