@@ -1,8 +1,8 @@
-## Downgrading or cancelling your paid plan
+## Downgrading or canceling your paid plan
 
 ### Cancel any time
 
-> Cancelling your paid plan is easy! Just a few clicks and you won't be charged again.
+> Canceling your paid plan is easy! Just a few clicks and you won't be charged again.
 
 * If you're hoping to stay on a paid plan but change your billing frequency, please [contact us](https://savviest.com/help/contact) or learn more [here](https://savviest.com/help/article/changing-your-billing-frequency).
 

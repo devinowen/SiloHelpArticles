@@ -15,7 +15,7 @@ You can also view a list of all previous invoices in the `Invoices` section.
   * You can print a copy of your invoice by clicking on the `Print PDF` button on the invoice page.
 
 #### To update your credit card info
-* Note: Many credit card companies allow recurring subscriptions to continue to be charged to an expired credit card. If you would like to cancel your subscription, make sure you turn off auto-renew as described [here](https://savviest.com/help/article/downgrading-or-cancelling-your-paid-plan).
+* Note: Many credit card companies allow recurring subscriptions to continue to be charged to an expired credit card. If you would like to cancel your subscription, make sure you turn off auto-renew as described [here](https://savviest.com/help/article/downgrading-or-canceling-your-paid-plan).
 
 1. Click on `Profile` in the side menu, or by clicking [here](https://savviest.com/app/profile).
 2. Click on the `Billing Info` tab below your profile picture.

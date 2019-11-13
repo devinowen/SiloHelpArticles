@@ -19,7 +19,7 @@
         "upgrading-to-a-paid-plan",
         "viewing-and-updating-your-billing-info",
         "changing-your-billing-frequency",
-        "downgrading-or-cancelling-your-paid-plan"
+        "downgrading-or-canceling-your-paid-plan"
     ],
     "sections": [
         {
@@ -179,9 +179,9 @@
                     "id": "18"
                 },
                 {
-                    "title": "Downgrading or cancelling your paid plan",
-                    "description": "Cancelling your paid plan is easy! Just a few clicks and you won't be charged again.",
-                    "slug": "downgrading-or-cancelling-your-paid-plan",
+                    "title": "Downgrading or canceling your paid plan",
+                    "description": "Canceling your paid plan is easy! Just a few clicks and you won't be charged again.",
+                    "slug": "downgrading-or-canceling-your-paid-plan",
                     "icon": "cancel_presentation",
                     "id": "19"
                 }
