@@ -1,6 +1,6 @@
 ## Changing your billing frequency
 
-### Switch between monthly and annual payments with a quick email
+### Switch billing cycles with a quick email
 
 > Changing your billing frequency is easy, but we need to do it on our end to make sure you get any applicable pro-rated discounts.
 
